@@ -1,0 +1,14 @@
+/* a:hover{
+    color: red;
+} */
+#sidebar{
+    background-color: rgb(17,25,38);
+    border: solid rgb(45,55,72) 1px;
+}
+.text-black, #csxtitle{
+    color: rgb(157,163,174);
+}
+.text-black:hover, #csxtitle:hover{
+    color: rgb(16,184,128);
+    background-color: rgb(37,42,57);
+}
