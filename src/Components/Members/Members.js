@@ -9,7 +9,9 @@ function Members() {
     <main className='main-dashboard'>
         <div className='main-topbar'><Topbar/></div>
         <div className='main-sidebar'><Sidebar /></div>
+        <div className='content'>
         <div className='main-members'> <MemberCard/></div>
+        </div>
     </main>
   )
 }

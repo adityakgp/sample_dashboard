@@ -9,6 +9,7 @@
 .main-sidebar {grid-area: 1 / 1 / 11 / 2;}
 .main-projects{
     overflow-x: scroll;
+    height: 20em;
 }
 .content {
     overflow-y: scroll;

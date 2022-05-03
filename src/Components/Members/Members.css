@@ -1,4 +1,4 @@
-.main-dashboard{
+/* .main-dashboard{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(10, 1fr);
@@ -6,5 +6,4 @@
     grid-row-gap: 0px;
 }
 .main-topbar{ grid-area: 1 / 1 / 2 / 6;  }
-.main-sidebar {grid-area: 1 / 1 / 11 / 2;}
-.main-members {grid-area: 2 / 2 / 11 / 6;}
+.main-sidebar {grid-area: 1 / 1 / 11 / 2;} */
