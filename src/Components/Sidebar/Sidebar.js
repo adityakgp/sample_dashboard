@@ -7,7 +7,7 @@ function Sidebar() {
     <div id='sidebar' class="overflow-y-auto pt-5 h-screen px-3 bg-green-500 dark:bg-gray-800">
     <a href="https://www.chisqaurex.com" class="flex items-center pl-2.5 mb-5">
     <img src="https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/245923230_265650705484264_1264958416371648750_n.png?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=7RKluBl-SA0AX-fpKrG&tn=tUoQJQaOP7ET-TEI&_nc_ht=scontent-bom1-1.xx&oh=00_AT8otea8lpnCiC-mlRL8Hsz1HLO3lnJIAHOybye2lPWFdA&oe=6270446C" class="h-6 mr-3 sm:h-7" alt="ChiSquareX Logo"/>
-    <span id='csxtitle' class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">ChiSquareX Technologies</span>
+    <span id='csxtitle' class="self-center text-xl font-semibold whitespace-nowrap dark:text-white">Chi SquareX Technologies</span>
     </a>
     <ul class="space-y-2">
     <li>

@@ -1,4 +1,5 @@
 import React from 'react';
+import 'flowbite';
 import * as ReactDOM from "react-dom";
 import { BrowserRouter } from "react-router-dom";
 import './index.css';

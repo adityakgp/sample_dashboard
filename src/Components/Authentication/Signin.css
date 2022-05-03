@@ -1,0 +1,14 @@
+#signintitle{
+    display: flex;
+    justify-content: space-between;
+}
+#signintitle p{
+    font-size: 2em;
+    font-weight: bold;
+    margin-block: auto;
+    margin-inline-start: .5em;
+}
+#signintitle img{
+height: 6em;
+width: 6em;
+}
